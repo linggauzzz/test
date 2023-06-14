@@ -3,8 +3,8 @@
 
 pragma solidity ^0.8.0;
 
-import "../IERC20.sol";
-import "../Address.sol";
+import "https://github.com/linggauzzz/test/edit/main/IERC20.sol";
+import "https://github.com/linggauzzz/test/edit/main/Address.sol";
 
 /**
  * @title SafeERC20
