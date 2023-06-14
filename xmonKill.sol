@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.17;
 
-import "https://github.com/linggauzzz/test/blob/main/IERC20.sol";
-import "https://github.com/linggauzzz/test/blob/main/SafeERC20.sol";
+import "../IERC20.sol";
+import "../SafeERC20.sol";
 
 
 
